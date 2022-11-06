@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatrykCiwinski
-- 👀 I’m interested in ... marketing, data
+- 👀 I’m interested in ... marketing, data analysis
 - 🌱 I’m currently learning ... python
 
 
